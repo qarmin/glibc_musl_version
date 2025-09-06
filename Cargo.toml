@@ -1,0 +1,9 @@
+[package]
+name = "glibc_musl_version"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.69.0"
+description = "A small crate to detect glibc and musl versions from the running system"
+license = "MIT"
+repository = "https://github.com/qarmin/glibc_musl_version"
+homepage = "https://github.com/qarmin/glibc_musl_version"
